@@ -1,5 +1,5 @@
 # Testbench
-I needed a way to test my projects more easily. What more do you need than buttons, switches, lights, and potentiometers.
+I needed a way to test my projects more easily. What more do you need than buttons, switches, lights, and potentiometers. Originally a class project but I have been adding and improving where I can like the potentiometer as I found myself needing one to use more and more.
 
 Used nearly daily to test my code when dealing with microcontrollers. Essentially works as a preset advanced breadboard
 
